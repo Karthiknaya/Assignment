@@ -38,10 +38,11 @@ Step for Execution
 
 8) check response below and also Ensure that database formed in MongoDB Compass
 
-To Update Delete time
-in Postman
+To Update Delete time.
 
-1) select Delete and add url http://localhost:3000/contact/:id
+In Postman
+
+1) select Delete Method and add url http://localhost:3000/contact/:id
 
 2) attach success message in JSON data and submit.
 
