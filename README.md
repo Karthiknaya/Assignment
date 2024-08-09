@@ -15,7 +15,7 @@ MongoDB Connection
 "/identify" Post request for checking whether contact data already present or not.
 
 1) If not present then create a new Collection
-2) If present and matched with one of from email or phone create a secondayID Collection with likedId of primaryId Collection.
+2) If present and matched with one of from email or phone create a secondayID Collection with likedId as of primaryId Collection.
 
 '/contact/:id' delete request for soft delete and to update delete time
 
