@@ -20,7 +20,7 @@ MongoDB Connection
 '/contact/:id' delete request for soft delete and to update delete time
 
 
-Step for Execution
+Steps for Execution
 
 1) Open terminal and run "Node index.js"
 
