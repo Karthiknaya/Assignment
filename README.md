@@ -1,6 +1,6 @@
 
 
-Created a new Project EMotarad.
+
 
 npm init -y (Created a new Nodejs Project).
 
